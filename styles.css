@@ -1,0 +1,25 @@
+/*se puede dar estilo a renombrando una clase, ejem bg-danger a bg-pink*/
+/*PARA VER LOS CAMBIOS SE debe RELACIONAR la hoja de stylos.*/
+.bg-pink{
+    background-color: gray;    
+}
+.height-carousel{
+    max-height: 400px;
+    min-height: 400px;
+}
+
+.carousel-indicators li {
+    background-color: mediumaquamarine;
+    height: 10px;
+}
+
+.size-img {
+    width: 300px;
+    height: 300px;
+}
+.icon-redes{
+    font-size: 35px;
+    margin-right: 3%;
+    color:#ffd83b;
+   
+}
